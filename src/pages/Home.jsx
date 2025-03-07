@@ -1,17 +1,18 @@
 import { Link } from "react-router-dom";
 
 const images = [
-  { id: 1, src: "/images/5.png", title: "Luxury Hill Resorts" },
-  { id: 2, src: "/images/2.png", title: "Scenic Cottages" },
-  { id: 3, src: "/images/1.png", title: "Ooty Lake Stays" },
-  { id: 4, src: "/images/3.jpg", title: "Tea Estate Retreats" },
-  { id: 5, src: "/images/4.jpg", title: "Heritage Bungalows" }
+  { id: 1, src: "/images/grid_1.jpg", title: "Luxury Hill Resorts" },
+  { id: 2, src: "/images/grid_2.webp", title: "Scenic Cottages" },
+  { id: 3, src: "/images/grid_3.jpg", title: "Ooty Lake Stays" },
+  { id: 4, src: "/images/grid_4.jpeg", title: "Tea Estate Retreats" },
+  { id: 5, src: "/images/grid_5.jpg", title: "Heritage Bungalows" },
+  { id: 6, src: "/images/tea_planation_factory_visit.jpg", title: "Mountain View Villas" }
 ];
 
 const featuredStays = [
-  { id: 1, name: "Nilgiri Mountain Cottage", price: 3500, image: "/images/4.jpg" },
-  { id: 2, name: "Ooty Lake View Resort", price: 5500, image: "/beach.jpg" },
-  { id: 3, name: "Colonial Tea Estate Villa", price: 4200, image: "/city.jpg" }
+  { id: 1, name: "Nilgiri Mountain Cottage", price: 3500, image: "/images/ooty.jpeg" },
+  { id: 2, name: "Ooty Lake View Resort", price: 5500, image: "/images/ooty_lake.jpg" },
+  { id: 3, name: "Colonial Tea Estate Villa", price: 4200, image: "/images/tea_planation_factory_visit.jpg" }
 ];
 
 const Home = () => {

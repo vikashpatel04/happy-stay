@@ -11,55 +11,55 @@ const tours = {
   1: { 
     name: "Nilgiri Hills Explorer", 
     price: 4500, 
-    image: "/ooty.jpeg",
+    image: "/images/ooty.jpeg",
     description: "Explore the beautiful Nilgiri Hills with this comprehensive tour that takes you through scenic viewpoints, mountain trails, and local villages. Experience the fresh mountain air and breathtaking vistas of the Blue Mountains."
   },
   2: { 
     name: "Ooty Botanical Gardens Tour", 
     price: 2500, 
-    image: "/wildlife.jpg",
+    image: "/images/botanical_garden.jpg",
     description: "Visit the 55-acre Government Botanical Gardens established in 1848. Explore exotic and indigenous plants, fossilized tree trunks, and the beautiful terraced garden layout. Perfect for nature lovers and photography enthusiasts."
   },
   3: { 
     name: "Tea Plantation & Factory Visit", 
     price: 3500, 
-    image: "/temple.jpg",
+    image: "/images/tea_planation_factory_visit.jpg",
     description: "Experience Ooty's famous tea culture with visits to sprawling tea estates and a working tea factory. Learn about the tea production process from plucking to packaging and enjoy tea tasting sessions with stunning mountain backdrops."
   },
   4: { 
     name: "Doddabetta Peak Adventure", 
     price: 3800, 
-    image: "/doddabetta.jpg",
+    image: "/images/doddabeta_peak_adventure.jpg",
     description: "Visit the highest peak in the Nilgiri mountains standing at 2,637 meters. Enjoy panoramic views of the surrounding landscapes, visit the telescope house for enhanced viewing, and experience the thrill of being at the junction of the Western and Eastern Ghats."
   },
   5: { 
     name: "Ooty Lake Boating Experience", 
     price: 2200, 
-    image: "/ooty-lake.jpg",
+    image: "/images/ooty_lake.jpg",
     description: "Enjoy a serene boating experience on the artificial Ooty Lake created by John Sullivan in 1824. Choose between paddle boats, row boats, or motor boats and soak in the picturesque surroundings while gliding across the calm waters."
   },
   6: { 
     name: "Pykara Falls & Lake Tour", 
     price: 3200, 
-    image: "/pykara.jpg",
+    image: "/images/pykara_waterfalls.jpg",
     description: "Visit the stunning Pykara Falls and Lake located about 20km from Ooty. Enjoy boating on the serene lake, witness the majestic waterfall, and explore the surrounding Shola forests. A perfect destination for nature lovers and photographers."
   },
   7: { 
     name: "Emerald Lake Scenic Tour", 
     price: 2900, 
-    image: "/emerald-lake.jpg",
+    image: "/images/emarald_lake.jpg",
     description: "Discover the hidden gem of Emerald Lake, situated amidst tea plantations and eucalyptus trees. Enjoy the tranquil atmosphere of this less crowded destination, perfect for picnics and peaceful nature walks with stunning views of the Nilgiri hills."
   },
   8: { 
     name: "Rose Garden Walking Tour", 
     price: 1800, 
-    image: "/rose-garden.jpg",
+    image: "/images/rose_garden.jpg",
     description: "Explore one of the largest rose gardens in India with over 20,000 varieties of roses. Spread across 4 hectares in a terraced arrangement, this garden offers a visual treat with its colorful blooms and fragrant atmosphere perfect for flower enthusiasts."
   },
   9: { 
     name: "Tribal Village Experience", 
     price: 3700, 
-    image: "/tribal-village.jpg",
+    image: "/images/tribal_village.jpg",
     description: "Immerse yourself in the cultural heritage of the Nilgiris with visits to traditional Toda and Kota tribal villages. Learn about their unique customs, architectural styles, traditional crafts, and sustainable lifestyle that has remained largely unchanged for centuries."
   }
 };

@@ -1,15 +1,15 @@
 import { Link } from "react-router-dom";
 
 const tours = [
-  { id: 1, name: "Nilgiri Hills Explorer", price: 4500, image: "/ooty.jpeg" },
-  { id: 2, name: "Ooty Botanical Gardens Tour", price: 2500, image: "/wildlife.jpg" },
-  { id: 3, name: "Tea Plantation & Factory Visit", price: 3500, image: "/temple.jpg" },
-  { id: 4, name: "Doddabetta Peak Adventure", price: 3800, image: "/doddabetta.jpg" },
-  { id: 5, name: "Ooty Lake Boating Experience", price: 2200, image: "/ooty-lake.jpg" },
-  { id: 6, name: "Pykara Falls & Lake Tour", price: 3200, image: "/pykara.jpg" },
-  { id: 7, name: "Emerald Lake Scenic Tour", price: 2900, image: "/emerald-lake.jpg" },
-  { id: 8, name: "Rose Garden Walking Tour", price: 1800, image: "/rose-garden.jpg" },
-  { id: 9, name: "Tribal Village Experience", price: 3700, image: "/tribal-village.jpg" }
+  { id: 1, name: "Nilgiri Hills Explorer", price: 4500, image: "/images/ooty.jpeg" },
+  { id: 2, name: "Ooty Botanical Gardens Tour", price: 2500, image: "/images/botanical_garden.jpg" },
+  { id: 3, name: "Tea Plantation & Factory Visit", price: 3500, image: "/images/tea_planation_factory_visit.jpg" },
+  { id: 4, name: "Doddabetta Peak Adventure", price: 3800, image: "/images/doddabeta_peak_adventure.jpg" },
+  { id: 5, name: "Ooty Lake Boating Experience", price: 2200, image: "/images/ooty_lake.jpg" },
+  { id: 6, name: "Pykara Falls & Lake Tour", price: 3200, image: "/images/pykara_waterfalls.jpg" },
+  { id: 7, name: "Emerald Lake Scenic Tour", price: 2900, image: "/images/emarald_lake.jpg" },
+  { id: 8, name: "Rose Garden Walking Tour", price: 1800, image: "/images/rose_garden.jpg" },
+  { id: 9, name: "Tribal Village Experience", price: 3700, image: "/images/tribal_village.jpg" }
 ];
 
 const Tours = () => {
